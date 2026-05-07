@@ -37,10 +37,6 @@
 </p>
 
 
-
-## 🖥️ **CYBER TERMINAL - SYSTEM INTERFACE**
-
-
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                           CYBER SYSTEM v2.0                                 │
 ├─────────────────────────────────────────────────────────────────────────────┤
@@ -80,11 +76,11 @@
 │  $ echo "SYSTEM READY"                                                       │
 │  > Welcome to the cyber matrix, Biruk.                                      │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
 
 
 
-## 🎯 **MISSION OBJECTIVES 2026**
+
+
 
 <div align="center">
   
@@ -101,8 +97,6 @@
 </div>
 
 
-
-## 💠 **HOLOGRAPHIC SKILL MATRIX**
 
 <div align="center">
   
@@ -122,7 +116,7 @@
 
 
 
-## 🔮 **NEURAL PROJECT PORTAL - 12 ACTIVE PROJECTS**
+
 
 <div align="center">
   
@@ -216,12 +210,12 @@
 │  ─────────────────────────────────────────────────────────────────────────────────  │
 │  [🔗 LIVE DEMO]  [📂 REPOSITORY]  [📊 ANALYTICS]  [📱 APP]                           │
 └─────────────────────────────────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
 
-## 📊 **ADVANCED CYBER METRICS**
+
 
 <div align="center">
   
@@ -251,41 +245,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biruk1407&theme=tokyo-night&hide_border=true&bg_color=000000&color=0066FF&line=0066FF&point=0066FF&area=true&area_color=0066FF" />
 </div>
 
----
 
-## 🐍 **CYBER SNAKE CONTRIBUTION MATRIX**
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biruk1407/Biruk1407/main/snake.svg" width="100%"/>
 </p>
 
----
 
-## 🏆 **CYBER TROPHY COLLECTION**
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Biruk1407&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
----
 
-## ⚡ **CYBER QUOTE GENERATOR**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
-## 🎵 **CYBERPUNK CODING PLAYLIST**
+
+
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6vzgwvanishlqon5zyezkmpwu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0066FF&bar_color_cover=true" width="400" />
 </p>
 
----
 
-## 🎮 **ACHIEVEMENT UNLOCKED**
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_100_DAYS_CODE-0066FF?style=for-the-badge" />
@@ -296,9 +287,9 @@
   <img src="https://img.shields.io/badge/⚛️_REACT_GURU-0066FF?style=for-the-badge" />
 </p>
 
----
 
-## 🔐 **SECURITY CLEARANCE**
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🛡️_FIREWALL-ACTIVE-0066FF?style=for-the-badge" />
@@ -308,13 +299,12 @@
   <img src="https://img.shields.io/badge/🔑_2FA-ENABLED-0066FF?style=for-the-badge" />
 </p>
 
----
 
-## 💻 **CODING STATS (Last 30 Days)**
+
 
 <div align="center">
   
-```
+
 ┌─────────────────────────────────────────────────────────────┐
 │                    CODING ACTIVITY DASHBOARD                 │
 ├─────────────────────────────────────────────────────────────┤
@@ -330,13 +320,11 @@
 │  Most active: 4 AM - 8 AM                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
----
 
-## 🌐 **CYBER SOCIAL MATRIX**
 
 <p align="center">
   <a href="mailto:brukeawol@gmail.com">
@@ -364,11 +352,9 @@
   <img src="https://img.shields.io/badge/🎵_SOUNDCLOUD-0066FF?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </p>
 
----
 
-## 💎 **CYBER MANIFESTO v2.0**
 
-```python
+
 class CyberDeveloper:
     def __init__(self):
         self.alias = "Biruk Awol"
@@ -414,11 +400,8 @@ class CyberDeveloper:
     
     def quote(self):
         return "The future is built by those who code it"
-```
 
----
 
-## 🔮 **UPCOMING PROJECTS (Q2 2026)**
 
 <div align="center">
   
@@ -432,9 +415,7 @@ class CyberDeveloper:
 
 </div>
 
----
 
-## 🎯 **CERTIFICATIONS & BADGES**
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_AWS_Cloud_Practitioner-0066FF?style=for-the-badge" />
@@ -445,21 +426,19 @@ class CyberDeveloper:
   <img src="https://img.shields.io/badge/🐳_Docker_Associate-0066FF?style=for-the-badge" />
 </p>
 
----
 
-## 📊 **CONTRIBUTION HEATMAP**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biruk1407&theme=tokyo-night&hide_border=true&bg_color=000000&color=0066FF&line=0066FF&point=0066FF&area=true&area_color=0066FF" />
 </p>
 
----
 
-## 🌟 **GITHUB METRICS DASHBOARD**
+
+
 
 <div align="center">
   
-```
+
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                          GITHUB ANALYTICS DASHBOARD                         │
 ├─────────────────────────────────────────────────────────────────────────────┤
@@ -477,13 +456,12 @@ class CyberDeveloper:
 │  ████████████████████ 156         ████████████████████ 89                  │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
----
 
-## 🚀 **ACHIEVEMENTS & MILESTONES**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅_EARLY_ADOPTER-0066FF?style=for-the-badge" />
@@ -494,28 +472,24 @@ class CyberDeveloper:
   <img src="https://img.shields.io/badge/📚_MENTOR-0066FF?style=for-the-badge" />
 </p>
 
----
 
-## 💡 **DAILY CODING TIP**
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
----
 
-## 📖 **BIBLE VERSE FOR DEVELOPERS**
 
 <p align="center">
   <i>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."</i><br>
   <b>Colossians 3:23</b>
 </p>
 
----
+
 
 ## 🎮 **INTERACTIVE TERMINAL (Click Simulation)**
 
-```bash
+
 $ github --profile Biruk1407
 > Loading cyber profile...
 > ████████████████████ 100%
@@ -540,9 +514,6 @@ $ contact --social
 
 $ echo "Ready for collaboration"
 > System ready. Connect with Biruk today!
-```
-
----
 
 ## 🔷 **CYBER FOOTER**
 
@@ -561,7 +532,6 @@ $ echo "Ready for collaboration"
 <img src="https://img.shields.io/badge/✨_MADE_IN_ETHIOPIA-0066FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💎_PREMIUM_DEVELOPER-0066FF?style=for-the-badge" />
 
-```diff
 + ------------------------------------------------------------------------ +
 |  ██████╗██╗██████╗ ██╗   ██╗██╗  ██╗                                   |
 |  ██╔══██╗██║██╔══██╗██║   ██║██║ ██╔╝                                   |
@@ -570,7 +540,7 @@ $ echo "Ready for collaboration"
 |  ██████╔╝██║██║  ██║╚██████╔╝██║  ██╗                                   |
 |  ╚═════╝ ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝                                   |
 + ------------------------------------------------------------------------ +
-```
+
 
 **🕐 System Uptime:** 365 days  
 **📊 Profile Score:** 99.9%  
@@ -579,4 +549,4 @@ $ echo "Ready for collaboration"
 **Last system update:** `$ date` 🤖
 
 </div>
-```
+
