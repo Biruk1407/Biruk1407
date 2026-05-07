@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=800&height=120&lines=⚡+BIRUK+AWOL+⚡;Full+Stack+Developer;AI+%26+ML+Engineer;Cyberpunk+Coder;Innovation+Architect;System+Hacker" />
 </div>
@@ -37,11 +36,11 @@
   <img src="https://img.shields.io/badge/🛡️_ETHICAL_HACKER-0066FF?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
----
+
 
 ## 🖥️ **CYBER TERMINAL - SYSTEM INTERFACE**
 
-```ascii
+
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                           CYBER SYSTEM v2.0                                 │
 ├─────────────────────────────────────────────────────────────────────────────┤
@@ -83,7 +82,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+
 
 ## 🎯 **MISSION OBJECTIVES 2026**
 
@@ -101,7 +100,7 @@
 
 </div>
 
----
+
 
 ## 💠 **HOLOGRAPHIC SKILL MATRIX**
 
@@ -121,13 +120,13 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,git,docker,kubernetes,aws,tensorflow,pytorch,fastapi,graphql,figma,linux,nginx,redis,postman,jenkins,terraform,ansible,grafana,elasticsearch,kafka&theme=dark&perline=10" />
 </p>
 
----
+
 
 ## 🔮 **NEURAL PROJECT PORTAL - 12 ACTIVE PROJECTS**
 
 <div align="center">
   
-```ascii
+
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
 │  🧠 AI RESUME ANALYZER                              🔥 STATUS: ACTIVE                 │
 ├─────────────────────────────────────────────────────────────────────────────────────┤
@@ -221,7 +220,6 @@
 
 </div>
 
----
 
 ## 📊 **ADVANCED CYBER METRICS**
 
